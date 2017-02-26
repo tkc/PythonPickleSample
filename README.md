@@ -1,1 +1,2 @@
-# makePickle
+# Python pickle sample
+
